@@ -17,7 +17,7 @@ $ react-native run-ios/android
 
 ### Props
 
-| Plugin | README |
+| Props | Type |
 | ------ | ------ |
 | teamColor | string |
 | textStyle | object |
